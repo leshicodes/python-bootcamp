@@ -5,3 +5,8 @@ This repo is dedicated to the notes, code and resources to learning Python via t
 ### Chapters
 Induvial Chapters have deciated Directories located at
 ```../chapters```
+
+
+## Authors
+
+- [@leshicodes](https://github.com/leshicodes)
